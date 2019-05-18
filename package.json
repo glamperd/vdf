@@ -1,0 +1,18 @@
+{
+  "name": "vdf",
+  "version": "1.0.0",
+  "description": "VDF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "VDF",
+    "time-capsule"
+  ],
+  "author": "Geoff L",
+  "license": "ISC",
+  "dependencies": {
+    "bn.js": "^4.11.8"
+  }
+}
